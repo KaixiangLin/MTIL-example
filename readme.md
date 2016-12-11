@@ -35,7 +35,7 @@ under Grant IIS-1565596 and Office of Naval Research N00014-14-1-0631.
 
 |>datas: synthetic sample data </br>
 
-|>sparsa: [solver](https://web.stanford.edu/group/SOL/software/pnopt/) </br>
+|>sparsa: [PNOPT solver](https://web.stanford.edu/group/SOL/software/pnopt/) </br>
 
 |>utilities: utilities files for vectorizing matrics, etc.  </br>
 
