@@ -1,30 +1,30 @@
 
 
-Folder Structure: 
-|>MTLconvx: convex formulations
----- MTIL_L_Lc
----- MTIL_L_S
----- MTIL_S_Lc
----- MTIL_S_S
+Folder Structure: </br>
+|>MTLconvx: convex formulations </br>
+---- MTIL_L_Lc </br>
+---- MTIL_L_S </br>
+---- MTIL_S_Lc </br>
+---- MTIL_S_S </br>
 
-|>MTLnonconvx: nonconvex formulations
----- MTIL_L_Ln
----- MTIL_S_Ln
+|>MTLnonconvx: nonconvex formulations </br>
+---- MTIL_L_Ln </br>
+---- MTIL_S_Ln </br>
 
-|>MTLlowrankW: multi-task baseline
----- MTL_L
+|>MTLlowrankW: multi-task baseline </br>
+---- MTL_L </br>
 
-|>STL_Least: single-task baseline
----- RR
----- STIL
+|>STL_Least: single-task baseline </br>
+---- RR </br>
+---- STIL </br>
 
-|>cfiles: mex files for accelerating computation
+|>cfiles: mex files for accelerating computation </br>
 
-|>datas: synthetic sample data
+|>datas: synthetic sample data </br>
 
-|>sparsa: [solver](https://web.stanford.edu/group/SOL/software/pnopt/)
+|>sparsa: [solver](https://web.stanford.edu/group/SOL/software/pnopt/) </br>
 
-|>utilities: utilities files for vectorizing matrics, etc. 
+|>utilities: utilities files for vectorizing matrics, etc.  </br>
 
-script_run_cell_mtl_syn.m   <--- run this to get a sample results. 
-configurefile.m             <--- tune parameters here. 
+script_run_cell_mtl_syn.m   <--- run this to get a sample results.  </br>
+configurefile.m             <--- tune parameters here.  </br>
