@@ -1,6 +1,19 @@
+## MTIL
+
+**M**ulti-**T**ask Feature **I**nteraction **L**earning (iMTL) 
 
 
-Folder Structure: </br>
+### Publications: 
+1. Multi-Task Feature Interaction Learning. </br>
+   Kaixiang Lin, Jianpeng Xu, Inci M. Baytas, Shuiwang Ji, Jiayu Zhou</br> 
+   **KDD** 2016.  [[Paper]](https://kaixianglin.github.io/papers/2016KDD_MTIL20160924.pdf)
+   
+### Acknowledgement
+This project is based in part upon work supported by the National Science Foundation 
+under Grant IIS-1565596 and Office of Naval Research N00014-14-1-0631.
+
+
+### Folder Structure: </br>
 |>MTLconvx: convex formulations </br>
 ---- MTIL_L_Lc </br>
 ---- MTIL_L_S </br>
