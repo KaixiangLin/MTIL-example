@@ -1,0 +1,1 @@
+for file = dir('*.cpp')'; eval(['mex ' file.name]) ; end
