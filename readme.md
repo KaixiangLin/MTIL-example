@@ -41,3 +41,7 @@ under Grant IIS-1565596 and Office of Naval Research N00014-14-1-0631.
 
 script_run_cell_mtl_syn.m   <--- run this to get a sample results.  </br>
 configurefile.m             <--- tune parameters here.  </br>
+
+
+PS:</br>
+It's currently the code example for all methods in the paper, we will integrate this to the multi-task learning package [MALSAR](http://malsar.org/) soon.
