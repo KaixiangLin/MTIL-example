@@ -1,6 +1,6 @@
 ## MTIL
 
-**M**ulti-**T**ask Feature **I**nteraction **L**earning (iMTL) 
+**M**ulti-**T**ask Feature **I**nteraction **L**earning (MTIL) 
 
 
 ### Publications: 
